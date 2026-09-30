@@ -36,3 +36,13 @@ This project is a simple React shopping cart application with a Products page an
 ## Explanation
 
 The cart state is stored in CartContext.jsx using React Context. The Products page uses the shared addToCart function, while the Cart page uses the shared cart state and clearCart function. The navigation bar also accesses the same cart state to display the current cart count.
+
+## Screenshots
+
+### Products Page
+
+![Products Page](screenshots/products-page.png)
+
+### Cart Page
+
+![Cart Page](screenshots/cart-page.png)
